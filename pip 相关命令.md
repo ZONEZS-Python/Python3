@@ -1,0 +1,12 @@
+# pip 相关命令
+
+```bash
+pip3 install scrapy  # 安装模块scrapy
+pip3 uninstall scrapy  # 卸载模块scrapy
+
+pip3 show scrapy  # 查看模块
+
+pip3 list  # 查看已安装模块
+
+```
+
