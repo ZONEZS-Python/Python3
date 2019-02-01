@@ -1,0 +1,41 @@
+# 元组Tuple
+
+Tuple与列表类似
+元组变量为()，列表为[]
+注意：元组定义完成后里面的元素就不能修改了，不能进行增删改了
+`info_tuple = ("zhangsan", "18", "1.75")`
+
+```python
+info_tuple = ("张三", 18, 1.75)
+
+print(type(info_tuple))
+
+# 1、取值
+name = info_tuple[0]
+print(name)
+
+# 2、定义一个空元组(由于元组不可变，一般来说空元组很少用到)
+empty_tuple = ()
+print(empty_tuple)
+
+# 3、定义一个只包含一个元素的元组，需要在括号中保留逗号才可以
+single_tuple = (1, )
+
+# 4、统计计数(跟列表完全相同的)
+count = info_tuple.count("张三")
+print(count)
+
+length = len(info_tuple)
+print(length)
+```
+格式化字符串后面的参与本质上就是一个元组
+```python
+# 格式化字符串后面的"()"本质上就是元组
+print("%s 年龄是 %d 身高是 %.2f" % ("小明", 18, 1.75))
+
+# 那么我们就可以把上面"("小明", 18, 1.75)"直接让其为一个元组就行了，不可变的
+info_xiaoming = ("小明", 18, 1.75)
+
+print("%s 年龄是 %d 身高是 %.2f" % info_xiaoming)
+```
+
