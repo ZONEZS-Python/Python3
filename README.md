@@ -25,3 +25,5 @@
 [12 字典](https://github.com/ZONEZS-Python/Python3/blob/master/12%20%E5%AD%97%E5%85%B8.md)
 
 [13 pathlib - 模块](https://github.com/ZONEZS-Python/Python3/blob/master/13%20pathlib%20-%20%E6%A8%A1%E5%9D%97.md)
+
+[14 hashlib - 模块](https://github.com/ZONEZS-Python/Python3/blob/master/14%20hashlib%20-%20%E6%A8%A1%E5%9D%97.md)
