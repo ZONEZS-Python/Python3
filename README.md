@@ -27,3 +27,5 @@
 [13 pathlib - 模块](https://github.com/ZONEZS-Python/Python3/blob/master/13%20pathlib%20-%20%E6%A8%A1%E5%9D%97.md)
 
 [14 hashlib - 模块](https://github.com/ZONEZS-Python/Python3/blob/master/14%20hashlib%20-%20%E6%A8%A1%E5%9D%97.md)
+
+[7.0.1 Django 初探](https://github.com/ZONEZS-Python/Python3/blob/master/7.0.1%20Django%20%E5%88%9D%E6%8E%A2.md)
