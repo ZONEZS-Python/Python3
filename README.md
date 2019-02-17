@@ -29,3 +29,5 @@
 [14 hashlib - 模块](https://github.com/ZONEZS-Python/Python3/blob/master/14%20hashlib%20-%20%E6%A8%A1%E5%9D%97.md)
 
 [7.0.1 Django 初探](https://github.com/ZONEZS-Python/Python3/blob/master/7.0.1%20Django%20%E5%88%9D%E6%8E%A2.md)
+
+[7.0.2 开始启动Django Web 服务器](https://github.com/ZONEZS-Python/Python3/blob/master/7.0.2%20%E5%BC%80%E5%A7%8B%E5%90%AF%E5%8A%A8Django%20Web%20%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
