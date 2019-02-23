@@ -31,3 +31,7 @@
 [7.0.1 Django 初探](https://github.com/ZONEZS-Python/Python3/blob/master/7.0.1%20Django%20%E5%88%9D%E6%8E%A2.md)
 
 [7.0.2 开始启动Django Web 服务器](https://github.com/ZONEZS-Python/Python3/blob/master/7.0.2%20%E5%BC%80%E5%A7%8B%E5%90%AF%E5%8A%A8Django%20Web%20%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
+
+[8.0.1 scrapy 初体验](https://github.com/ZONEZS-Python/Python3/blob/master/8.0.1%20scrapy%20%E5%88%9D%E4%BD%93%E9%AA%8C.md)
+
+[8.0.2 使用scrapy shell进行数据提取 css类型](https://github.com/ZONEZS-Python/Python3/blob/master/8.0.2%20%E4%BD%BF%E7%94%A8scrapy%20shell%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E6%8F%90%E5%8F%96%20css%E7%B1%BB%E5%9E%8B.md)
