@@ -35,3 +35,5 @@
 [8.0.1 scrapy 初体验](https://github.com/ZONEZS-Python/Python3/blob/master/8.0.1%20scrapy%20%E5%88%9D%E4%BD%93%E9%AA%8C.md)
 
 [8.0.2 使用scrapy shell进行数据提取 css类型 ](https://github.com/ZONEZS-Python/Python3/blob/master/8.0.2%20%E4%BD%BF%E7%94%A8scrapy%20shell%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E6%8F%90%E5%8F%96%20css%E7%B1%BB%E5%9E%8B.md)
+
+[8.0.3 scrapy 命令行工具](https://github.com/ZONEZS-Python/Python3/blob/master/8.0.3%20scrapy%20%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7.md)
