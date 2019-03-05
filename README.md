@@ -1,6 +1,6 @@
 ### Python3 
 
-[01 Linux命令-常见的几个终端命令](https://github.com/ZONEZS-Python/Python3/blob/master/01%20Linux%E5%91%BD%E4%BB%A4-%E5%B8%B8%E8%A7%81%E7%9A%84%E5%87%A0%E4%B8%AA%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4.md)
+[1.0.1 Linux命令-常见的几个终端命令](https://github.com/ZONEZS-Python/Python3/blob/master/01%20Linux%E5%91%BD%E4%BB%A4-%E5%B8%B8%E8%A7%81%E7%9A%84%E5%87%A0%E4%B8%AA%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4.md)
 
 [02 查看变量的类型 - type](https://github.com/ZONEZS-Python/Python3/blob/master/02%20%E6%9F%A5%E7%9C%8B%E5%8F%98%E9%87%8F%E7%9A%84%E7%B1%BB%E5%9E%8B%20-%20type.md)
 
