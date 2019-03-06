@@ -10,8 +10,6 @@
 
 [05 高级数据类型](https://github.com/ZONEZS-Python/Python3/blob/master/05%20%E9%AB%98%E7%BA%A7%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
-[06 pip 相关命令](https://github.com/ZONEZS-Python/Python3/blob/master/06%20pip%20%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4.md)
-
 [07 列表统计及删除方法拓展](https://github.com/ZONEZS-Python/Python3/blob/master/07%20%E5%88%97%E8%A1%A8%E7%BB%9F%E8%AE%A1%E5%8F%8A%E5%88%A0%E9%99%A4%E6%96%B9%E6%B3%95%E6%8B%93%E5%B1%95.md)
 
 [08 列表的排序](https://github.com/ZONEZS-Python/Python3/blob/master/08%20%E5%88%97%E8%A1%A8%E7%9A%84%E6%8E%92%E5%BA%8F.md)
