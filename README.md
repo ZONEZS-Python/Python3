@@ -6,6 +6,8 @@
 
 [1.0.3 查看IP地址](https://github.com/ZONEZS-Python/Python3/blob/master/1.0.3%20%E6%9F%A5%E7%9C%8BIP%E5%9C%B0%E5%9D%80.md)
 
+[1.0.4 在终端中快捷键切换行首和行尾](https://github.com/ZONEZS-Python/Python3/blob/master/1.0.4%20%E5%9C%A8%E7%BB%88%E7%AB%AF%E4%B8%AD%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%88%87%E6%8D%A2%E8%A1%8C%E9%A6%96%E5%92%8C%E8%A1%8C%E5%B0%BE.md)
+
 [02 查看变量的类型 - type](https://github.com/ZONEZS-Python/Python3/blob/master/02%20%E6%9F%A5%E7%9C%8B%E5%8F%98%E9%87%8F%E7%9A%84%E7%B1%BB%E5%9E%8B%20-%20type.md)
 
 [03 变量的数据类型及其转换](https://github.com/ZONEZS-Python/Python3/blob/master/03%20%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%85%B6%E8%BD%AC%E6%8D%A2.md)
