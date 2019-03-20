@@ -1,0 +1,53 @@
+# MongoDB的一些基本操作
+
+
+```sql
+// 1. 查看所有数据库: 
+show dbs
+
+// 2. 切换到数据库test: 
+use test
+
+// 3. 创建集合(创建数据库):
+db.createCollection("goods") 或是
+db.goods.insert({"productName":"小米","productPrice":2988})  直接创建表及插入数据
+
+// 4. 插入文档/数据: goods是表名
+db.goods.insert({"productName":"小米","productPrice":2988,"sku":{"num":6}})
+
+// 5. 删除:  
+	// a. 删除数据库
+	db.dropDatabase()(切记要先切换到要删除的数据库 然后在直接该语句) 
+  
+  // b. 删除集合/表user:
+	db.goods.drop()
+	
+  // c. 删除某一条数据:
+	db.goods.remove({'productName':'华为'})
+	
+  // d. 删除表内所有数据:
+	db.goods.remove({})
+
+// 6. 查看table的数据: goods是表名
+	// a. 查看table的数据:
+	db.goods.find()
+	db.goods.find().pretty() pretty() // 方法以格式化的方式来显示所有文档。
+	
+  // b. 找到第一条数据:
+  db.goods.findOne() 
+	
+  // c. 查找范围:
+	db.goods.find({"productPrice" : {$gt : 200}})  // 大于200的数据
+	db.goods.find({"productPrice": {$gte : 200}})  // 大于等于200的数据
+	db.goods.find({"productPrice": {$lt : 200}})   // 小于200的数据
+	db.goods.find({"productPricege": {$lte : 200}}) // 小于等于200的数据
+	db.goods.find({"productPrice": {$lt :300, $gt : 100}}) // 大于100 小于300的数据
+
+// 7. 更新文档:
+	// a. 更新
+	db.goods.update({查找的条件},{$set:{更新的内容}})
+	// b. 更新子文档: class.num
+	db.goods.update({'productName':'华为'},{$set:{'sku.num':3}})
+  
+```
+
