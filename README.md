@@ -14,6 +14,8 @@
 
 [1.0.7 pip3 install requests_html](https://github.com/ZONEZS-Python/Python3/blob/master/1.0.7%20pip3%20install%20requests_html.md)
 
+[1.0.8 一些基本命令](https://github.com/ZONEZS-Python/Python3/blob/master/1.0.8%20%E4%B8%80%E4%BA%9B%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.md)
+
 [02 查看变量的类型 - type](https://github.com/ZONEZS-Python/Python3/blob/master/02%20%E6%9F%A5%E7%9C%8B%E5%8F%98%E9%87%8F%E7%9A%84%E7%B1%BB%E5%9E%8B%20-%20type.md)
 
 [03 变量的数据类型及其转换](https://github.com/ZONEZS-Python/Python3/blob/master/03%20%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%85%B6%E8%BD%AC%E6%8D%A2.md)
