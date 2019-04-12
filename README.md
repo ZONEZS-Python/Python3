@@ -40,6 +40,8 @@
 
 [14 hashlib - 模块](https://github.com/ZONEZS-Python/Python3/blob/master/14%20hashlib%20-%20%E6%A8%A1%E5%9D%97.md)
 
+[5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
+
 [5.0.4 pypinyin - 模块](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.4%20pypinyin%20-%20%E6%A8%A1%E5%9D%97.md)
 
 [5.0.5 geopy - 地理位置模块](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.5%20geopy%20-%20%E5%9C%B0%E7%90%86%E4%BD%8D%E7%BD%AE%E6%A8%A1%E5%9D%97.md)
