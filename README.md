@@ -40,6 +40,8 @@
 
 [14 hashlib - 模块](https://github.com/ZONEZS-Python/Python3/blob/master/14%20hashlib%20-%20%E6%A8%A1%E5%9D%97.md)
 
+[5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
+
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
 
 [5.0.4 pypinyin - 模块](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.4%20pypinyin%20-%20%E6%A8%A1%E5%9D%97.md)
