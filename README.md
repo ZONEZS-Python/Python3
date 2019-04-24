@@ -60,6 +60,8 @@
 
 [8.0.3 scrapy 命令行工具](https://github.com/ZONEZS-Python/Python3/blob/master/8.0.3%20scrapy%20%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7.md)
 
+[8.0.4 scrapy genspider 详解](https://github.com/ZONEZS-Python/Python3/blob/master/8.0.4%20scrapy%20genspider%20%E8%AF%A6%E8%A7%A3.md)
+
 [9.0.1 vscode 插件之 carbon-now-sh](https://github.com/ZONEZS-Python/Python3/blob/master/9.0.1%20vscode%20%E6%8F%92%E4%BB%B6%E4%B9%8B%20carbon-now-sh.md)
 
 [11.0.1 User-Agent](https://github.com/ZONEZS-Python/Python3/blob/master/11.0.1%20User-Agent.md)
