@@ -12,7 +12,7 @@
 
 [1.0.6 pip 相关命令](https://github.com/ZONEZS-Python/Python3/blob/master/1.0.6%20pip%20%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4.md)
 
-[1.0.7 pip3 install requests_html](https://github.com/ZONEZS-Python/Python3/blob/master/1.0.7%20pip3%20install%20requests_html.md)
+[1.0.7 pip install requests_html](https://github.com/ZONEZS-Python/Python3/blob/master/1.0.7%20pip3%20install%20requests_html.md)
 
 [1.0.8 一些基本命令](https://github.com/ZONEZS-Python/Python3/blob/master/1.0.8%20%E4%B8%80%E4%BA%9B%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4.md)
 
