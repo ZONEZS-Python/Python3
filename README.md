@@ -67,6 +67,8 @@
 
 [9.0.1 vscode 插件之 carbon-now-sh](https://github.com/ZONEZS-Python/Python3/blob/master/9.0.1%20vscode%20%E6%8F%92%E4%BB%B6%E4%B9%8B%20carbon-now-sh.md)
 
+[10.0.1 基于Python 构建APP 服务器](https://github.com/ZONEZS-Python/Python3/blob/master/10.0.1%20%E5%9F%BA%E4%BA%8EPython%20%E6%9E%84%E5%BB%BAAPP%20%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
+
 [11.0.1 User-Agent](https://github.com/ZONEZS-Python/Python3/blob/master/11.0.1%20User-Agent.md)
 
 [12.0.1 TensorFlow 验证码识别](https://github.com/ZONEZS-Python/Python3/blob/master/12.0.1%20TensorFlow%20%E9%AA%8C%E8%AF%81%E7%A0%81%E8%AF%86%E5%88%AB.md)
