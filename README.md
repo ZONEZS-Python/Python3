@@ -40,6 +40,8 @@
 
 [14 hashlib - 模块](https://github.com/ZONEZS-Python/Python3/blob/master/14%20hashlib%20-%20%E6%A8%A1%E5%9D%97.md)
 
+[3.1 变量的数据类型及其转换.md](https://github.com/ZONEZS-Python/Python3/blob/master/3.1%20%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%85%B6%E8%BD%AC%E6%8D%A2.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
