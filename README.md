@@ -40,6 +40,8 @@
 
 [14 hashlib - 模块](https://github.com/ZONEZS-Python/Python3/blob/master/14%20hashlib%20-%20%E6%A8%A1%E5%9D%97.md)
 
+[3.0.1 Python站点](https://github.com/ZONEZS-Python/Python3/blob/master/3.0.1%20Python%E7%AB%99%E7%82%B9.md)
+
 [3.1 变量的数据类型及其转换.md](https://github.com/ZONEZS-Python/Python3/blob/master/3.1%20%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%85%B6%E8%BD%AC%E6%8D%A2.md)
 
 [3.2.1 元组和字典的拆包](https://github.com/ZONEZS-Python/Python3/blob/master/3.2.1%20%E5%85%83%E7%BB%84%E5%92%8C%E5%AD%97%E5%85%B8%E7%9A%84%E6%8B%86%E5%8C%85.md)
