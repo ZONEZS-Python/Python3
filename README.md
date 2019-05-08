@@ -50,6 +50,8 @@
 
 [3.1.2 全局变量在函数中一般不可修改](https://github.com/ZONEZS-Python/Python3/blob/master/3.1.2%20%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F%E5%9C%A8%E5%87%BD%E6%95%B0%E4%B8%AD%E4%B8%80%E8%88%AC%E4%B8%8D%E5%8F%AF%E4%BF%AE%E6%94%B9.md)
 
+[3.1.3 global 希望在函数中修改全局变量](https://github.com/ZONEZS-Python/Python3/blob/master/3.1.3%20global%20%E5%B8%8C%E6%9C%9B%E5%9C%A8%E5%87%BD%E6%95%B0%E4%B8%AD%E4%BF%AE%E6%94%B9%E5%85%A8%E5%B1%80%E5%8F%98%E9%87%8F.md)
+
 [3.2.1 元组和字典的拆包](https://github.com/ZONEZS-Python/Python3/blob/master/3.2.1%20%E5%85%83%E7%BB%84%E5%92%8C%E5%AD%97%E5%85%B8%E7%9A%84%E6%8B%86%E5%8C%85.md)
 
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
