@@ -58,6 +58,8 @@
 
 [3.2.2 函数的多个返回值 - 元组](https://github.com/ZONEZS-Python/Python3/blob/master/3.2.2%20%E5%87%BD%E6%95%B0%E7%9A%84%E5%A4%9A%E4%B8%AA%E8%BF%94%E5%9B%9E%E5%80%BC%20-%20%E5%85%83%E7%BB%84.md)
 
+[3.2.3 with 关键字](https://github.com/ZONEZS-Python/Python3/blob/master/3.2.3%20with%20%E5%85%B3%E9%94%AE%E5%AD%97.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
