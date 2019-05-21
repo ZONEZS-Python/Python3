@@ -68,6 +68,8 @@
 
 [3.3.3 小文件复制](https://github.com/ZONEZS-Python/Python3/blob/master/3.3.3%20%E5%B0%8F%E6%96%87%E4%BB%B6%E5%A4%8D%E5%88%B6.md)
 
+[3.3.4 大文件复制](https://github.com/ZONEZS-Python/Python3/blob/master/3.3.4%20%E5%A4%A7%E6%96%87%E4%BB%B6%E5%A4%8D%E5%88%B6.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
