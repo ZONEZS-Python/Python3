@@ -64,6 +64,8 @@
 
 [3.3.1 打开文件的方式](https://github.com/ZONEZS-Python/Python3/blob/master/3.3.1%20%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E7%9A%84%E6%96%B9%E5%BC%8F.md)
 
+[3.3.2 readline的方法读取文件](https://github.com/ZONEZS-Python/Python3/blob/master/3.3.2%20readline%E7%9A%84%E6%96%B9%E6%B3%95%E8%AF%BB%E5%8F%96%E6%96%87%E4%BB%B6.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
