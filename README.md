@@ -66,6 +66,8 @@
 
 [3.3.2 readline的方法读取文件](https://github.com/ZONEZS-Python/Python3/blob/master/3.3.2%20readline%E7%9A%84%E6%96%B9%E6%B3%95%E8%AF%BB%E5%8F%96%E6%96%87%E4%BB%B6.md)
 
+[3.3.3 小文件复制](https://github.com/ZONEZS-Python/Python3/blob/master/3.3.3%20%E5%B0%8F%E6%96%87%E4%BB%B6%E5%A4%8D%E5%88%B6.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
