@@ -60,6 +60,8 @@
 
 [3.2.3 with 关键字](https://github.com/ZONEZS-Python/Python3/blob/master/3.2.3%20with%20%E5%85%B3%E9%94%AE%E5%AD%97.md)
 
+[3.3 操作文件的套路](https://github.com/ZONEZS-Python/Python3/blob/master/3.3%20%E6%93%8D%E4%BD%9C%E6%96%87%E4%BB%B6%E7%9A%84%E5%A5%97%E8%B7%AF.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
