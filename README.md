@@ -70,6 +70,8 @@
 
 [3.3.4 大文件复制](https://github.com/ZONEZS-Python/Python3/blob/master/3.3.4%20%E5%A4%A7%E6%96%87%E4%BB%B6%E5%A4%8D%E5%88%B6.md)
 
+[3.3.5 导入 os 模块来执行文件和目录管理](https://github.com/ZONEZS-Python/Python3/blob/master/3.3.5%20%E5%AF%BC%E5%85%A5%20os%20%E6%A8%A1%E5%9D%97%E6%9D%A5%E6%89%A7%E8%A1%8C%E6%96%87%E4%BB%B6%E5%92%8C%E7%9B%AE%E5%BD%95%E7%AE%A1%E7%90%86.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
