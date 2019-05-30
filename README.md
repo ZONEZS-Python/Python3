@@ -74,6 +74,8 @@
 
 [3.3.6 文本文件的编码方式ASCII和UTF8](https://github.com/ZONEZS-Python/Python3/blob/master/3.3.6%20%E6%96%87%E6%9C%AC%E6%96%87%E4%BB%B6%E7%9A%84%E7%BC%96%E7%A0%81%E6%96%B9%E5%BC%8FASCII%E5%92%8CUTF8.md)
 
+[3.4 再谈 Python 编码规范](https://github.com/ZONEZS-Python/Python3/blob/master/3.4%20%E5%86%8D%E8%B0%88%20Python%20%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
