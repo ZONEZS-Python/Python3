@@ -78,6 +78,8 @@
 
 [4.0.1 Python 下的多进程和多线程](https://github.com/ZONEZS-Python/Python3/blob/master/4.0.1%20Python%20%E4%B8%8B%E7%9A%84%E5%A4%9A%E8%BF%9B%E7%A8%8B%E5%92%8C%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
 
+[4.0.2 字符串的json 处理 json.loads()](https://github.com/ZONEZS-Python/Python3/blob/master/4.0.2%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84json%20%E5%A4%84%E7%90%86%20json.loads().md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
