@@ -82,6 +82,8 @@
 
 [4.1.1 函数](https://github.com/ZONEZS-Python/Python3/blob/master/4.1.1%20%E5%87%BD%E6%95%B0.md)
 
+[4.1.2 内置函数](https://github.com/ZONEZS-Python/Python3/blob/master/4.1.2%20%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
