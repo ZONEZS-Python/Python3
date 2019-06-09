@@ -84,6 +84,8 @@
 
 [4.1.2 内置函数](https://github.com/ZONEZS-Python/Python3/blob/master/4.1.2%20%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.md)
 
+[4.1.3 列表统计及删除方法拓展](https://github.com/ZONEZS-Python/Python3/blob/master/4.1.3%20%E5%88%97%E8%A1%A8%E7%BB%9F%E8%AE%A1%E5%8F%8A%E5%88%A0%E9%99%A4%E6%96%B9%E6%B3%95%E6%8B%93%E5%B1%95.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
