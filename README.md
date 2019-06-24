@@ -96,6 +96,8 @@
 
 [4.1.10 切片的方法](https://github.com/ZONEZS-Python/Python3/blob/master/4.1.10%20%E5%88%87%E7%89%87%E7%9A%84%E6%96%B9%E6%B3%95.md)
 
+[4.2.1 程序执行顺序结构分析](https://github.com/ZONEZS-Python/Python3/blob/master/4.2.1%20%E7%A8%8B%E5%BA%8F%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F%E7%BB%93%E6%9E%84%E5%88%86%E6%9E%90.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
