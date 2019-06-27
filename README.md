@@ -108,6 +108,9 @@
 
 [4.2.6 多值参数求和案例](https://github.com/ZONEZS-Python/Python3/blob/master/4.2.6%20%E5%A4%9A%E5%80%BC%E5%8F%82%E6%95%B0%E6%B1%82%E5%92%8C%E6%A1%88%E4%BE%8B.md)
 
+[4.2.7 多值参数](https://github.com/ZONEZS-Python/Python3/blob/master/4.2.7%20%E5%A4%9A%E5%80%BC%E5%8F%82%E6%95%B0.md)
+
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
