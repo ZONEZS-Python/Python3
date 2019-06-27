@@ -102,6 +102,8 @@
 
 [4.2.3 return 的操作](https://github.com/ZONEZS-Python/Python3/blob/master/4.2.3%20return%20%E7%9A%84%E6%93%8D%E4%BD%9C.md)
 
+[4.2.4 看变量的内存地址 -id(a)](https://github.com/ZONEZS-Python/Python3/blob/master/4.2.4%20%E7%9C%8B%E5%8F%98%E9%87%8F%E7%9A%84%E5%86%85%E5%AD%98%E5%9C%B0%E5%9D%80%20-id(a).md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
