@@ -106,6 +106,8 @@
 
 [4.2.5 指定函数的参数默认值](https://github.com/ZONEZS-Python/Python3/blob/master/4.2.5%20%E6%8C%87%E5%AE%9A%E5%87%BD%E6%95%B0%E7%9A%84%E5%8F%82%E6%95%B0%E9%BB%98%E8%AE%A4%E5%80%BC.md)
 
+[4.2.6 多值参数求和案例](https://github.com/ZONEZS-Python/Python3/blob/master/4.2.6%20%E5%A4%9A%E5%80%BC%E5%8F%82%E6%95%B0%E6%B1%82%E5%92%8C%E6%A1%88%E4%BE%8B.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
