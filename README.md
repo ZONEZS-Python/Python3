@@ -98,6 +98,10 @@
 
 [4.2.1 程序执行顺序结构分析](https://github.com/ZONEZS-Python/Python3/blob/master/4.2.1%20%E7%A8%8B%E5%BA%8F%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F%E7%BB%93%E6%9E%84%E5%88%86%E6%9E%90.md)
 
+[4.2.2 print 想打印不换行的字符串](https://github.com/ZONEZS-Python/Python3/blob/master/4.2.2%20print%20%E6%83%B3%E6%89%93%E5%8D%B0%E4%B8%8D%E6%8D%A2%E8%A1%8C%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+
+[4.2.3 return 的操作](https://github.com/ZONEZS-Python/Python3/blob/master/4.2.3%20return%20%E7%9A%84%E6%93%8D%E4%BD%9C.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
