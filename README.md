@@ -112,6 +112,8 @@
 
 [4.2.8 交换两个数字 - 面试题](https://github.com/ZONEZS-Python/Python3/blob/master/4.2.8%20%E4%BA%A4%E6%8D%A2%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97%20-%20%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
+[4.2.9 函数的递归](https://github.com/ZONEZS-Python/Python3/blob/master/4.2.9%20%E5%87%BD%E6%95%B0%E7%9A%84%E9%80%92%E5%BD%92.md)
+
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
