@@ -132,6 +132,8 @@
 
 [5.1.1 多任务执行 - threading](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.1%20%E5%A4%9A%E4%BB%BB%E5%8A%A1%E6%89%A7%E8%A1%8C%20-%20threading.md)
 
+[5.1.2 pygame游戏模块](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.2%20pygame%E6%B8%B8%E6%88%8F%E6%A8%A1%E5%9D%97.md)
+
 [6.0.3 启动MongoDB出现的问题以及修复](https://github.com/ZONEZS-Python/Python3/blob/master/6.0.3%20%E5%90%AF%E5%8A%A8MongoDB%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%BF%AE%E5%A4%8D.md)
 
 [7.0.1 Django 初探](https://github.com/ZONEZS-Python/Python3/blob/master/7.0.1%20Django%20%E5%88%9D%E6%8E%A2.md)
