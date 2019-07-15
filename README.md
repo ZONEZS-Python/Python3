@@ -130,13 +130,13 @@
 
 [5.0.9 pathlib](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.9%20pathlib.md)
 
-[5.1.1 多任务执行 - threading](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.1%20%E5%A4%9A%E4%BB%BB%E5%8A%A1%E6%89%A7%E8%A1%8C%20-%20threading.md)
+[5.1.1 多任务执行 threading](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.1%20%E5%A4%9A%E4%BB%BB%E5%8A%A1%E6%89%A7%E8%A1%8C%20-%20threading.md)
 
-[5.1.2 pygame游戏模块](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.2%20pygame%E6%B8%B8%E6%88%8F%E6%A8%A1%E5%9D%97.md)
+[5.1.2 pygame 游戏模块](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.2%20pygame%E6%B8%B8%E6%88%8F%E6%A8%A1%E5%9D%97.md)
 
 [5.1.3 Celery](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.3%20Celery.md)
 
-[5.1.4 FlashText - 数据快速清理利器](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.4%20FlashText%20-%20%E6%95%B0%E6%8D%AE%E5%BF%AB%E9%80%9F%E6%B8%85%E7%90%86%E5%88%A9%E5%99%A8.md)
+[5.1.4 FlashText 数据快速清理利器](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.4%20FlashText%20-%20%E6%95%B0%E6%8D%AE%E5%BF%AB%E9%80%9F%E6%B8%85%E7%90%86%E5%88%A9%E5%99%A8.md)
 
 [5.1.5 Pyplotz 支持中文的绘图库](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.5%20Pyplotz%20%E6%94%AF%E6%8C%81%E4%B8%AD%E6%96%87%E7%9A%84%E7%BB%98%E5%9B%BE%E5%BA%93.md)
 
