@@ -144,17 +144,15 @@
 
 [5.1.7 卸载某个模块](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.7%20%E5%8D%B8%E8%BD%BD%E6%9F%90%E4%B8%AA%E6%A8%A1%E5%9D%97.md)
 
-[5.1.8 安装其他人的模块
-](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.8%20%E5%AE%89%E8%A3%85%E5%85%B6%E4%BB%96%E4%BA%BA%E7%9A%84%E6%A8%A1%E5%9D%97.md)
+[5.1.8 安装其他人的模块](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.8%20%E5%AE%89%E8%A3%85%E5%85%B6%E4%BB%96%E4%BA%BA%E7%9A%84%E6%A8%A1%E5%9D%97.md)
 
 [5.1.9 发布模块](https://github.com/ZONEZS-Python/Python3/blob/master/5.1.9%20%E5%8F%91%E5%B8%83%E6%A8%A1%E5%9D%97%EF%BC%88%E7%9F%A5%E9%81%93%E4%B8%80%E4%B8%8B%EF%BC%8C%E7%94%A8%E7%9A%84%E6%97%B6%E5%80%99%E6%90%9C%E7%B4%A2%E5%B0%B1%E8%A1%8C%E4%BA%86%EF%BC%89.md)
 
-[5.2.1 导入包实例
-](https://github.com/ZONEZS-Python/Python3/blob/master/5.2.1%20%E5%AF%BC%E5%85%A5%E5%8C%85%E5%AE%9E%E4%BE%8B.md)
+[5.2.1 导入包实例](https://github.com/ZONEZS-Python/Python3/blob/master/5.2.1%20%E5%AF%BC%E5%85%A5%E5%8C%85%E5%AE%9E%E4%BE%8B.md)
 
-[5.2.2 包的概念以及建立方式
+[5.2.2 包的概念以及建立方式](https://github.com/ZONEZS-Python/Python3/blob/master/5.2.2%20%E5%8C%85%E7%9A%84%E6%A6%82%E5%BF%B5%E4%BB%A5%E5%8F%8A%E5%BB%BA%E7%AB%8B%E6%96%B9%E5%BC%8F.md)
 
-](https://github.com/ZONEZS-Python/Python3/blob/master/5.2.2%20%E5%8C%85%E7%9A%84%E6%A6%82%E5%BF%B5%E4%BB%A5%E5%8F%8A%E5%BB%BA%E7%AB%8B%E6%96%B9%E5%BC%8F.md)
+[5.2.3 Python中模块的导入顺序](https://github.com/ZONEZS-Python/Python3/blob/master/5.2.3%20Python%E4%B8%AD%E6%A8%A1%E5%9D%97%E7%9A%84%E5%AF%BC%E5%85%A5%E9%A1%BA%E5%BA%8F.md)
 
 [6.0.3 启动MongoDB出现的问题以及修复](https://github.com/ZONEZS-Python/Python3/blob/master/6.0.3%20%E5%90%AF%E5%8A%A8MongoDB%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%BF%AE%E5%A4%8D.md)
 
