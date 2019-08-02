@@ -154,6 +154,8 @@
 
 [5.2.3 Python中模块的导入顺序](https://github.com/ZONEZS-Python/Python3/blob/master/5.2.3%20Python%E4%B8%AD%E6%A8%A1%E5%9D%97%E7%9A%84%E5%AF%BC%E5%85%A5%E9%A1%BA%E5%BA%8F.md)
 
+[5.2.4 from ... import 导入模块](https://github.com/ZONEZS-Python/Python3/blob/master/5.2.4%20from%20...%20import%20%E5%AF%BC%E5%85%A5%E6%A8%A1%E5%9D%97.md)
+
 [6.0.3 启动MongoDB出现的问题以及修复](https://github.com/ZONEZS-Python/Python3/blob/master/6.0.3%20%E5%90%AF%E5%8A%A8MongoDB%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%BF%AE%E5%A4%8D.md)
 
 [7.0.1 Django 初探](https://github.com/ZONEZS-Python/Python3/blob/master/7.0.1%20Django%20%E5%88%9D%E6%8E%A2.md)
