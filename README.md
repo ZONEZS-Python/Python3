@@ -152,6 +152,10 @@
 [5.2.1 导入包实例
 ](https://github.com/ZONEZS-Python/Python3/blob/master/5.2.1%20%E5%AF%BC%E5%85%A5%E5%8C%85%E5%AE%9E%E4%BE%8B.md)
 
+[5.2.2 包的概念以及建立方式
+
+](https://github.com/ZONEZS-Python/Python3/blob/master/5.2.2%20%E5%8C%85%E7%9A%84%E6%A6%82%E5%BF%B5%E4%BB%A5%E5%8F%8A%E5%BB%BA%E7%AB%8B%E6%96%B9%E5%BC%8F.md)
+
 [6.0.3 启动MongoDB出现的问题以及修复](https://github.com/ZONEZS-Python/Python3/blob/master/6.0.3%20%E5%90%AF%E5%8A%A8MongoDB%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%BF%AE%E5%A4%8D.md)
 
 [7.0.1 Django 初探](https://github.com/ZONEZS-Python/Python3/blob/master/7.0.1%20Django%20%E5%88%9D%E6%8E%A2.md)
