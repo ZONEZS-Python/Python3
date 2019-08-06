@@ -164,6 +164,8 @@
 
 [5.3.2 pyinstaller 模块](https://github.com/ZONEZS-Python/Python3/blob/master/5.3.2%20pyinstaller%20%E6%A8%A1%E5%9D%97.md)
 
+[5.3.3 baidu-aip 百度人工智能模块库](https://github.com/ZONEZS-Python/Python3/blob/master/5.3.3%20baidu-aip%20%20%E7%99%BE%E5%BA%A6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9D%97%E5%BA%93.md)
+
 [6.0.3 启动MongoDB出现的问题以及修复](https://github.com/ZONEZS-Python/Python3/blob/master/6.0.3%20%E5%90%AF%E5%8A%A8MongoDB%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%BF%AE%E5%A4%8D.md)
 
 [7.0.1 Django 初探](https://github.com/ZONEZS-Python/Python3/blob/master/7.0.1%20Django%20%E5%88%9D%E6%8E%A2.md)
