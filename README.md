@@ -40,6 +40,10 @@
 
 [14 hashlib - 模块](https://github.com/ZONEZS-Python/Python3/blob/master/14%20hashlib%20-%20%E6%A8%A1%E5%9D%97.md)
 
+[2.0.1 Pycharm变量的重命名快捷修改](https://github.com/ZONEZS-Python/Python3/blob/master/2.0.1%20Pycharm%E5%8F%98%E9%87%8F%E7%9A%84%E9%87%8D%E5%91%BD%E5%90%8D%E5%BF%AB%E6%8D%B7%E4%BF%AE%E6%94%B9.md)
+
+[2.0.2 TODO标签（Pycharm）](https://github.com/ZONEZS-Python/Python3/blob/master/2.0.2%20TODO%E6%A0%87%E7%AD%BE%EF%BC%88Pycharm%EF%BC%89.md)
+
 [3.0.1 Python站点](https://github.com/ZONEZS-Python/Python3/blob/master/3.0.1%20Python%E7%AB%99%E7%82%B9.md)
 
 [3.0.2 Python 中英文问题](https://github.com/ZONEZS-Python/Python3/blob/master/3.0.2%20Python%20%E4%B8%AD%E8%8B%B1%E6%96%87%E9%97%AE%E9%A2%98.md)
