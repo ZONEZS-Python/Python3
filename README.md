@@ -46,6 +46,8 @@
 
 [2.0.3 Pycharm中字符串很长的话](https://github.com/ZONEZS-Python/Python3/blob/master/2.0.3%20Pycharm%E4%B8%AD%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%BE%88%E9%95%BF%E7%9A%84%E8%AF%9D.md)
 
+[2.0.4 Pycharm 下安装mongodb可视化插件](https://github.com/ZONEZS-Python/Python3/blob/master/2.0.4%20Pycharm%20%E4%B8%8B%E5%AE%89%E8%A3%85mongodb%E5%8F%AF%E8%A7%86%E5%8C%96%E6%8F%92%E4%BB%B6.md)
+
 [3.0.1 Python站点](https://github.com/ZONEZS-Python/Python3/blob/master/3.0.1%20Python%E7%AB%99%E7%82%B9.md)
 
 [3.0.2 Python 中英文问题](https://github.com/ZONEZS-Python/Python3/blob/master/3.0.2%20Python%20%E4%B8%AD%E8%8B%B1%E6%96%87%E9%97%AE%E9%A2%98.md)
