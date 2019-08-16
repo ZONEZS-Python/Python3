@@ -178,6 +178,10 @@
 
 [5.3.4 itchat 微信库](https://github.com/ZONEZS-Python/Python3/blob/master/5.3.4%20itchat%20%E5%BE%AE%E4%BF%A1%E5%BA%93.md)
 
+[6.0.1 爬虫基础相关](https://github.com/ZONEZS-Python/Python3/blob/master/6.0.1%20%E7%88%AC%E8%99%AB%E5%9F%BA%E7%A1%80%E7%9B%B8%E5%85%B3.md)
+
+[]()
+
 [6.0.3 启动MongoDB出现的问题以及修复](https://github.com/ZONEZS-Python/Python3/blob/master/6.0.3%20%E5%90%AF%E5%8A%A8MongoDB%E5%87%BA%E7%8E%B0%E7%9A%84%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%BF%AE%E5%A4%8D.md)
 
 [7.0.1 Django 初探](https://github.com/ZONEZS-Python/Python3/blob/master/7.0.1%20Django%20%E5%88%9D%E6%8E%A2.md)
