@@ -188,7 +188,7 @@
 
 [6.0.5 Request请求 - ProxyHandler设置代理IP](https://github.com/ZONEZS-Python/Python3/blob/master/6.0.5%20Request%E8%AF%B7%E6%B1%82%20-%20ProxyHandler%E8%AE%BE%E7%BD%AE%E4%BB%A3%E7%90%86IP.md)
 
-[]()
+[6.0.6 https 和 http 的网页爬取出现的坑](https://github.com/ZONEZS-Python/Python3/blob/master/6.0.6%20https%20%E5%92%8C%20http%20%E7%9A%84%E7%BD%91%E9%A1%B5%E7%88%AC%E5%8F%96%E5%87%BA%E7%8E%B0%E7%9A%84%E5%9D%91.md)
 
 [6.1.1 http.cookiejar模块](https://github.com/ZONEZS-Python/Python3/blob/master/6.1.1%20http.cookiejar%E6%A8%A1%E5%9D%97.md)
 
