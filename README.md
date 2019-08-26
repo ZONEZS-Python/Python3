@@ -196,6 +196,8 @@
 
 [6.1.3 网络爬虫之Robots协议](https://github.com/ZONEZS-Python/Python3/blob/master/6.1.3%20%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E4%B9%8BRobots%E5%8D%8F%E8%AE%AE.md)
 
+[6.1.4 全面超越Appium，使用Airtest超快速开发App爬虫](https://github.com/ZONEZS-Python/Python3/blob/master/6.1.4%20%E5%85%A8%E9%9D%A2%E8%B6%85%E8%B6%8AAppium%EF%BC%8C%E4%BD%BF%E7%94%A8Airtest%E8%B6%85%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91App%E7%88%AC%E8%99%AB.md)
+
 [7.0.1 Django 初探](https://github.com/ZONEZS-Python/Python3/blob/master/7.0.1%20Django%20%E5%88%9D%E6%8E%A2.md)
 
 [7.0.2 开始启动Django Web 服务器](https://github.com/ZONEZS-Python/Python3/blob/master/7.0.2%20%E5%BC%80%E5%A7%8B%E5%90%AF%E5%8A%A8Django%20Web%20%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
