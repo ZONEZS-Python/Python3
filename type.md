@@ -1,4 +1,4 @@
-# 查看变量的类型 - type
+# type
 
 
 ```python
