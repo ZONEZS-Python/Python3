@@ -128,16 +128,6 @@
 
 []()
 
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
 [5.0.1 beautifulsoup4](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.1%20beautifulsoup4.md)
 
 [5.0.2 requests](https://github.com/ZONEZS-Python/Python3/blob/master/5.0.2%20requests.md)
