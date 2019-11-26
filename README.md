@@ -22,11 +22,12 @@
 
 [1.2.3 tree 文件树](https://github.com/ZONEZS-Python/Python3/blob/master/1.2.3%20tree%20%E6%96%87%E4%BB%B6%E6%A0%91%EF%BC%9Atree%20-L%202.md)
 
+
 [02 查看变量的类型 - type](https://github.com/ZONEZS-Python/Python3/blob/master/02%20%E6%9F%A5%E7%9C%8B%E5%8F%98%E9%87%8F%E7%9A%84%E7%B1%BB%E5%9E%8B%20-%20type.md)
 
 [03 变量的数据类型及其转换](https://github.com/ZONEZS-Python/Python3/blob/master/03%20%E5%8F%98%E9%87%8F%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E5%85%B6%E8%BD%AC%E6%8D%A2.md)
 
-[05 高级数据类型](https://github.com/ZONEZS-Python/Python3/blob/master/05%20%E9%AB%98%E7%BA%A7%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+[05 高级数据类型-repeat](https://github.com/ZONEZS-Python/Python3/blob/master/05%20%E9%AB%98%E7%BA%A7%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
 [07 列表统计及删除方法拓展](https://github.com/ZONEZS-Python/Python3/blob/master/07%20%E5%88%97%E8%A1%A8%E7%BB%9F%E8%AE%A1%E5%8F%8A%E5%88%A0%E9%99%A4%E6%96%B9%E6%B3%95%E6%8B%93%E5%B1%95.md)
 
