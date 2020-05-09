@@ -1,5 +1,10 @@
 ### Python3 
 
+##### FastAPI
+GetAPI/main.py
+
+PostAPI/main.py
+
 [1.0.1 Linux命令-常见的几个终端命令](https://github.com/ZONEZS-Python/Python3/blob/master/01%20Linux%E5%91%BD%E4%BB%A4-%E5%B8%B8%E8%A7%81%E7%9A%84%E5%87%A0%E4%B8%AA%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4.md)
 
 [1.0.2 Linux - 在终端中的一些常用命令](https://github.com/ZONEZS-Python/Python3/blob/master/1.0.2%20Linux%20-%20%E5%9C%A8%E7%BB%88%E7%AB%AF%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
