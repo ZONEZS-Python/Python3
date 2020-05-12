@@ -1,10 +1,9 @@
 '''
 @Author: _zone
 @Date: 2020-05-11 15:52:00
-@LastEditTime: 2020-05-11 18:37:47
+@LastEditTime: 2020-05-12 17:11:10
 @FilePath: /FastAPIDemo/TestAPI/main.py
 '''
-
 
 from fastapi import FastAPI
 from pydantic import BaseModel
@@ -19,9 +18,9 @@ class StudentModel(BaseModel):
     name: str
     student_id: int
     age: int
-    height: int
+    height: int = 15
     weight: int
-    sex: str
+    sex: str = None
 
 
 name = "Jack Ma"
@@ -43,7 +42,6 @@ def recive():
            "weight": weight}
 
     resArray = [res, res, res, res, res]
-
     return resArray
 
 
@@ -58,7 +56,6 @@ def get_student_data():
            "weight": weight}
 
     resArray = [res, res, res, res, res]
-
     resJson = {"sam": resArray, "hero": resArray, "lucky": resArray}
 
     return resJson
