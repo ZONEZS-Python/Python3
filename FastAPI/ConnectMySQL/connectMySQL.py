@@ -37,7 +37,7 @@ def search_version():
 
 def search_data():
     # SQL 查询语句
-    sql = "select * from python"  # python 表为小写，若写成大写就挂了
+    sql = "select * from python"  # 表名：python 表为小写，若写成大写就挂了
     try:
         cursor.execute(sql)
         results = cursor.fetchall()
