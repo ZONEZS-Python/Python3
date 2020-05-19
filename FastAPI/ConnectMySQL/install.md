@@ -1,12 +1,22 @@
 <!--
  * @Author: _zone
  * @Date: 2020-05-18 14:20:54
- * @LastEditTime: 2020-05-19 11:06:24
+ * @LastEditTime: 2020-05-19 14:05:44
  * @FilePath: /ConnectMySQL/install.md
 --> 
 
 # 本篇以安装 Python-3.6.8 版本的 Python依赖库举例
 
+# 准备工作
+一般在虚拟环境中使用这种方法，有时候会需要手动添加一些无法自动生成的依赖库
+Python项目生成所有依赖包的清单 requirements.txt【pipreqs包】
+
+### 安装pipreqs,并生成requirements.txt清单
+pip install pipreqs
+### 生成 requirement.txt
+pipreqs ./  
+### 安装 requirements.txt 依赖包
+pip install -r requirements.txt
 
 # 1.0
 ### 设置基础环境配置
