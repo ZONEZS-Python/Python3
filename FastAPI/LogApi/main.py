@@ -1,8 +1,7 @@
-
 '''
 @Author: _zone
 @Date: 2020-05-22 15:50:45
-@LastEditTime: 2020-05-22 16:22:19
+@LastEditTime: 2020-05-26 14:25:18
 @FilePath: /LogApi/main.py
 '''
 
@@ -21,15 +20,25 @@ def get_info_data(a: int = 0, b: int = 0):
     sex = '男'
     height = 175
 
-    msg = '成功'
+    msg = 'SUCCESS'
     code = 200
 
-    data = {
+    info = {
         'name': name,
         'age': age,
         'sex': sex,
         'height': height
     }
+
+    # data = {
+    #     'info1': info,
+    #     'info2': info,
+    #     'info3': info,
+    #     'info4': info,
+    #     'info5': info,
+    # }
+
+    data = [info, info, info, info, info]
 
     json = {
         'code': code,
