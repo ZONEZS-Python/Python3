@@ -30,14 +30,6 @@ def get_info_data(a: int = 0, b: int = 0):
         'height': height
     }
 
-    # data = {
-    #     'info1': info,
-    #     'info2': info,
-    #     'info3': info,
-    #     'info4': info,
-    #     'info5': info,
-    # }
-
     data = [info, info, info, info, info]
 
     json = {
