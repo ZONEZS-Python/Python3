@@ -1,7 +1,7 @@
 # 变量
 height = 15
 
-
+# 圣诞树模型
 # 定义树
 def design_tree():
 
