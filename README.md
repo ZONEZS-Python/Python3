@@ -40,8 +40,6 @@ PostAPI/main.py
 
 [09 列表的遍历](https://github.com/ZONEZS-Python/Python3/blob/master/09%20%E5%88%97%E8%A1%A8%E7%9A%84%E9%81%8D%E5%8E%86.md)
 
-[10 元组Tuple](https://github.com/ZONEZS-Python/Python3/blob/master/10%20%E5%85%83%E7%BB%84Tuple.md)
-
 [11 列表和元组的转换](https://github.com/ZONEZS-Python/Python3/blob/master/11%20%E5%88%97%E8%A1%A8%E5%92%8C%E5%85%83%E7%BB%84%E7%9A%84%E8%BD%AC%E6%8D%A2.md)
 
 [12 字典](https://github.com/ZONEZS-Python/Python3/blob/master/12%20%E5%AD%97%E5%85%B8.md)
